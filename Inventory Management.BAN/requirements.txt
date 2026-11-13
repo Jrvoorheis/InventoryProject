@@ -1,0 +1,14 @@
+# Supply Chain Analytics Inventory Decision Agent Dependencies
+# Core calculation engine uses Python 3.8+ standard library (math, statistics.NormalDist, dataclasses)
+
+# Testing Framework
+pytest>=8.0.0
+
+# Terminal UI & Formatting
+rich>=13.0.0
+
+# Interactive Web Application
+streamlit>=1.30.0
+numpy>=1.24.0
+pandas>=2.0.0
+
